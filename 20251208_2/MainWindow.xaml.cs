@@ -105,7 +105,7 @@ namespace _20251208_2
         }
 
         // 이미지 불러오기
-        private void BtnLoadImage_Click(object sender, EventArgs e)
+        private void BtnLoadImage_Click(object sender, RoutedEventArgs e)
         {
             StopCamera();
             // 카메라에 이미지 가지고 올 예정
